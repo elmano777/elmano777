@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=react,astro,css,html,js,nextjs,tailwind,ts,vite" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=bun,nestjs,postgres,prisma,supabase" />
   </a>
 </p>
     
@@ -53,10 +53,9 @@
 
 - **Tools**:
 
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=aws,bash,devto,docker,git,github,gmail,jest,notion,npm,postman,stackoverflow,svg,vscode,windows" />
   </a>
 </p>
 
