@@ -1,4 +1,4 @@
-<h1 align="center"><b>Buenas dias, tardes o noches mis estimados. Soy Rolando D.</b><img src="https://logos-world.net/wp-content/uploads/2023/04/Team-Fortress-2-Logo.jpg" width="35"></h1>
+<h1 align="center"><b>Buenas dias, tardes o noches mis estimados. Soy Rolando D.</b><img src="https://www.vhv.rs/dpng/d/128-1281956_team-fortress-2-heavy-logo-png-download-team.png" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
